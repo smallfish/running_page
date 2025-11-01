@@ -80,8 +80,8 @@ devDependencies:
     specifier: ^4.1.10
     version: 4.1.10(vite@5.4.19)
   '@types/geojson':
-    specifier: ^7946.0.14
-    version: 7946.0.14
+    specifier: ^7946.0.16
+    version: 7946.0.16
   '@types/mapbox__polyline':
     specifier: ^1.0.2
     version: 1.0.2
@@ -1344,8 +1344,8 @@ packages:
   /@types/estree@1.0.8:
     resolution: {integrity: sha512-dWHzHa2WqEXI/O1E9OjrocMTKJl2mSrEolh1Iomrv6U+JuNwaHXsXx9bLu5gG7BUWFIN0skIQJQ/L1rIex4X6w==}
 
-  /@types/geojson@7946.0.14:
-    resolution: {integrity: sha512-WCfD5Ht3ZesJUsONdhvm84dmzWOiOzOAqOncN0++w0lBw1o8OuDNJF2McvvCef/yBqb/HYRahp1BYtODFQ8bRg==}
+  /@types/geojson@7946.0.16:
+    resolution: {integrity: sha512-6C8nqWur3j98U6+lXDfTUWIfgvZU+EumvpHKcYjujKH7woYyLj2sUmff0tRhrqM7BohUw7Pz3ZB1jj2gW9Fvmg==}
 
   /@types/json-schema@7.0.15:
     resolution: {integrity: sha512-5+fP8P8MFNC+AyZCDxrB2pkZFPGzqQWUzpSeuuVLvm8VMcorNYavBqoFcxK8bQz4Qsbn4oUEEem4wDLfcysGHA==}
@@ -1354,13 +1354,13 @@ packages:
   /@types/mapbox-gl@2.7.13:
     resolution: {integrity: sha512-qNffhTdYkeFl8QG9Q1zPPJmcs8PvHgmLa1PcwP1rxvcfMsIgcFr/FnrCttG0ZnH7Kzdd7xfECSRNTWSr4jC3PQ==}
     dependencies:
-      '@types/geojson': 7946.0.14
+      '@types/geojson': 7946.0.16
     dev: false
 
   /@types/mapbox__polyline@1.0.2:
     resolution: {integrity: sha512-Kr/oznVL3e8uvWM0+VPlVu2rVP+jKyVW/994HE9YJFBfcAcKqB4wMvqCdgXLG0SSrxxlKc5Nqaj7zt+KRl9oCA==}
     dependencies:
-      '@types/geojson': 7946.0.14
+      '@types/geojson': 7946.0.16
     dev: true
 
   /@types/minimist@1.2.2:
